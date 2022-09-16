@@ -1,0 +1,33 @@
+{
+    "name": "PlayerController",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "2b09719c-0526-46b9-8f9a-ec1a284a577f",
+            "actions": [
+                {
+                    "name": "Avance",
+                    "type": "Button",
+                    "id": "5f236e4a-4076-44f2-9d2c-c9e949a57ee1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "08cd0e89-0000-447a-b66c-5aa6ab0e132a",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Avance",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
