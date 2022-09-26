@@ -57,7 +57,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Game Scene/Phase 6/Phase 6-2.unity
     guid: a7433db7d1f60e14b832debdec4c772a
   - enabled: 1
-    path: Assets/Scenes/Game Scene/Phase 6/Phase 6-3 End.unity
+    path: Assets/Scenes/Game Scene/Phase 6/Phase 6-3.unity
     guid: 9ed69da7bfc872549a3361c51863af6a
   - enabled: 1
     path: Assets/Scenes/Game Scene/End.unity
