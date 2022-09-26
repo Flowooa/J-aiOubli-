@@ -16,15 +16,37 @@
             ],
             "bindings": [
                 {
-                    "name": "",
-                    "id": "08cd0e89-0000-447a-b66c-5aa6ab0e132a",
+                    "name": "Mouvement",
+                    "id": "e6643fe7-3db7-40f0-a3a4-c1a42c9061ca",
+                    "path": "2DVector",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Avance",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "down",
+                    "id": "05fcbec6-c8d6-4a35-8bb2-1d771c0fd8d4",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Avance",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "right",
+                    "id": "bed9c8e6-2eff-4179-88b8-be9957aec45e",
                     "path": "<Keyboard>/w",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
                     "action": "Avance",
                     "isComposite": false,
-                    "isPartOfComposite": false
+                    "isPartOfComposite": true
                 }
             ]
         }

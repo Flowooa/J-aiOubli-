@@ -2,10 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DeplacementJoueur : MonoBehaviour
+public class Next3to2-1 : MonoBehaviour
 {
-    
-
+    // Start is called before the first frame update
     void Start()
     {
         
