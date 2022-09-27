@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: 53261f2007c7ad244bc9045dad0ac29b, type: 2}
   m_LightingSettings: {fileID: 0}
 --- !u!196 &4
 NavMeshSettings:
@@ -182,6 +182,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tabouret Mais vraiment
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2f06c397f965aef4ca8ff3efccc107dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2f06c397f965aef4ca8ff3efccc107dc, type: 3}
 --- !u!4 &33723461 stripped
@@ -221,7 +225,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &93256465
 Transform:
@@ -249,7 +253,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-107252
+  m_Name: pb_Mesh-25070
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -422,7 +426,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!108 &268238291
 Light:
@@ -475,7 +479,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -555,6 +559,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tableaux
       objectReference: {fileID: 0}
+    - target: {fileID: 1082548020277328928, guid: 271cc2aee07d6fa4da8f197a0d3c92bd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 271cc2aee07d6fa4da8f197a0d3c92bd, type: 3}
 --- !u!4 &317803745 stripped
@@ -577,7 +585,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &599187724
 Transform:
@@ -611,7 +619,7 @@ Light:
   m_InnerSpotAngle: 104.24194
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 0
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -644,7 +652,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -789,6 +797,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mirroir (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cec74b6bfc657634993b18ef5aefcc9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cec74b6bfc657634993b18ef5aefcc9e, type: 3}
 --- !u!4 &705149988 stripped
@@ -850,6 +862,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ae9211b9127ea324bb78c0eabed1e753, type: 3}
       propertyPath: m_Name
       value: door
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ae9211b9127ea324bb78c0eabed1e753, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ae9211b9127ea324bb78c0eabed1e753, type: 3}
@@ -931,6 +947,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lampadaire (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866621852552652557, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3779745573541866595, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
 --- !u!4 &1029987631 stripped
@@ -993,6 +1021,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Start
       objectReference: {fileID: 0}
+    - target: {fileID: 4600992034037455131, guid: 1e1c2b4e52fd492418cd805dfdbbe8b5, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1e1c2b4e52fd492418cd805dfdbbe8b5, type: 3}
 --- !u!1001 &1082196465
@@ -1054,6 +1086,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: door
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ae9211b9127ea324bb78c0eabed1e753, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ae9211b9127ea324bb78c0eabed1e753, type: 3}
 --- !u!4 &1082196466 stripped
@@ -1106,7 +1142,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1323705430
 Transform:
@@ -1140,7 +1176,7 @@ Light:
   m_InnerSpotAngle: 104.49945
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 0
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -1173,7 +1209,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -1350,7 +1386,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1546526031
 Transform:
@@ -1384,7 +1420,7 @@ Light:
   m_InnerSpotAngle: 104.49945
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 0
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -1417,7 +1453,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -1721,6 +1757,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lampadaire (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866621852552652557, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3779745573541866595, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
 --- !u!4 &1930153169 stripped
@@ -1783,6 +1831,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lampadaire
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866621852552652557, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3779745573541866595, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
 --- !u!4 &1975816920 stripped
@@ -1841,9 +1901,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8513424388201257645, guid: 8b38236a11b33db448dd1d70c016f6be, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -3957782524123411102, guid: 8b38236a11b33db448dd1d70c016f6be, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8b38236a11b33db448dd1d70c016f6be, type: 3}
       propertyPath: m_Name
       value: Meuble Ikea
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8b38236a11b33db448dd1d70c016f6be, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8b38236a11b33db448dd1d70c016f6be, type: 3}

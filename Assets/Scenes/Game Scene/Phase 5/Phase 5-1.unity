@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: 6ec4626defaffee4ab0130c349f8ccef, type: 2}
   m_LightingSettings: {fileID: 0}
 --- !u!196 &4
 NavMeshSettings:
@@ -181,6 +181,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2f06c397f965aef4ca8ff3efccc107dc, type: 3}
       propertyPath: m_Name
       value: Tabouret Mais vraiment (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2f06c397f965aef4ca8ff3efccc107dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2f06c397f965aef4ca8ff3efccc107dc, type: 3}
@@ -269,6 +273,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: door (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ae9211b9127ea324bb78c0eabed1e753, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ae9211b9127ea324bb78c0eabed1e753, type: 3}
 --- !u!1 &172119119 stripped
@@ -356,6 +364,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lampadaire (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866621852552652557, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3779745573541866595, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
 --- !u!4 &468028154 stripped
@@ -430,6 +450,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tableaux (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 76418cc942cafd84aa82f47e4da5704b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 76418cc942cafd84aa82f47e4da5704b, type: 3}
 --- !u!1 &738126755
@@ -447,7 +471,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &738126756
 Transform:
@@ -514,7 +538,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -583,6 +607,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2f06c397f965aef4ca8ff3efccc107dc, type: 3}
       propertyPath: m_Name
       value: Tabouret Mais vraiment (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2f06c397f965aef4ca8ff3efccc107dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2f06c397f965aef4ca8ff3efccc107dc, type: 3}
@@ -671,6 +699,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: door (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ae9211b9127ea324bb78c0eabed1e753, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ae9211b9127ea324bb78c0eabed1e753, type: 3}
 --- !u!1 &782292392 stripped
@@ -746,6 +778,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: window
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03fe61de291e28946b7084ecf5891ae3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 03fe61de291e28946b7084ecf5891ae3, type: 3}
 --- !u!1 &1148915917
@@ -816,7 +852,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -895,6 +931,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 03fe61de291e28946b7084ecf5891ae3, type: 3}
       propertyPath: m_Name
       value: window (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03fe61de291e28946b7084ecf5891ae3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 03fe61de291e28946b7084ecf5891ae3, type: 3}
@@ -1022,6 +1062,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lampadaire
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866621852552652557, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3779745573541866595, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
 --- !u!4 &1257202176 stripped
@@ -1083,6 +1135,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2ebfa0a5de7207b4b92b94db8282b27d, type: 3}
       propertyPath: m_Name
       value: porte mentaux
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2ebfa0a5de7207b4b92b94db8282b27d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2ebfa0a5de7207b4b92b94db8282b27d, type: 3}
@@ -1486,6 +1542,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tableaux
       objectReference: {fileID: 0}
+    - target: {fileID: 1082548020277328928, guid: 271cc2aee07d6fa4da8f197a0d3c92bd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 271cc2aee07d6fa4da8f197a0d3c92bd, type: 3}
 --- !u!1001 &1721303976
@@ -1551,6 +1611,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tableaux (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1082548020277328928, guid: 271cc2aee07d6fa4da8f197a0d3c92bd, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 271cc2aee07d6fa4da8f197a0d3c92bd, type: 3}
 --- !u!1001 &1779533365
@@ -1611,6 +1675,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2f06c397f965aef4ca8ff3efccc107dc, type: 3}
       propertyPath: m_Name
       value: Tabouret Mais vraiment (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2f06c397f965aef4ca8ff3efccc107dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2f06c397f965aef4ca8ff3efccc107dc, type: 3}
@@ -1687,6 +1755,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lampadaire (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2866621852552652557, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3779745573541866595, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8c94cf1c60799c745a15b4ce2354b522, type: 3}
 --- !u!4 &1785842149 stripped
@@ -1709,7 +1789,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1794860723
 Transform:
@@ -1776,7 +1856,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -1838,9 +1918,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -360
       objectReference: {fileID: 0}
+    - target: {fileID: -8513424388201257645, guid: 8b38236a11b33db448dd1d70c016f6be, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: -3957782524123411102, guid: 8b38236a11b33db448dd1d70c016f6be, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8b38236a11b33db448dd1d70c016f6be, type: 3}
       propertyPath: m_Name
       value: Meuble Ikea (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8b38236a11b33db448dd1d70c016f6be, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8b38236a11b33db448dd1d70c016f6be, type: 3}
@@ -1920,6 +2012,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2f06c397f965aef4ca8ff3efccc107dc, type: 3}
       propertyPath: m_Name
       value: Tabouret Mais vraiment
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2f06c397f965aef4ca8ff3efccc107dc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2f06c397f965aef4ca8ff3efccc107dc, type: 3}
@@ -2008,6 +2104,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: mirroir
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cec74b6bfc657634993b18ef5aefcc9e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cec74b6bfc657634993b18ef5aefcc9e, type: 3}
 --- !u!43 &1932693382
@@ -2016,7 +2116,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-77538
+  m_Name: pb_Mesh-23506
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -2392,6 +2492,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tableaux (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 76418cc942cafd84aa82f47e4da5704b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 76418cc942cafd84aa82f47e4da5704b, type: 3}
 --- !u!1 &2056271829
@@ -2409,7 +2513,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2056271830
 Transform:
@@ -2476,7 +2580,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 0.54
@@ -2541,6 +2645,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f39990ca94a6e31479e70124ebb6d267, type: 3}
       propertyPath: m_Name
       value: Tabouret (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f39990ca94a6e31479e70124ebb6d267, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f39990ca94a6e31479e70124ebb6d267, type: 3}
